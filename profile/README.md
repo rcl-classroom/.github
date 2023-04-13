@@ -1,6 +1,6 @@
 # RCL GitHub Classroom
 
-Welcome to the RCL GitHub classroom. The official repository for all the sample application referenced in RCL Live Events and RCL Skiils.IO.
+Welcome to the RCL GitHub classroom. The official repository for all the sample application referenced in RCL Live Events and RCL Skills.IO. This is where the private repos for your Skills.IO code challenges are stored , as well as, the templates for your assignments.
 
 ## [RCL Live Events](https://live.rclapp.com/)
 
