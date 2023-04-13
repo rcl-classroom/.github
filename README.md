@@ -1,4 +1,4 @@
-# RCL GutHub Classroom
+# RCL GitHub Classroom
 
 Welcome to the RCL GitHub classroom.
 
@@ -10,7 +10,7 @@ Here you can watch live video training events on building software for the cloud
 
 The applications created and explained on RCL Live Events are all posted here.
 
-## [RCL SKills.IO](https://skillsio.rclapp.com/)
+## [RCL Skills.IO](https://skillsio.rclapp.com/)
 
 https://skillsio.rclapp.com/
 
